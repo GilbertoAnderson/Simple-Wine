@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IEnumerable<VinhoModel>
+
+<div class="py-5">
+    <div class="container">
+        <div class="text-left mb-5">
+            <form method="get" asp-action="index" asp-controller="Home">
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-0 justify-content-between">
+                    <input name="strCriterio" class="form-control w-50 mx-2" style="border:1px solid black;" placeholder="digite o texto " />
+                </div>
+            </form>
+         </div>
+
+
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-0">
+
+            @if (Model != null)
+            {
+                @if (Model.Count() > 0)
+                {
+                    @foreach (var vinho in Model)
+                    {
+                        <div class="card mx-1 my-1 p-1" style="width: 100rem">
+                            <div class="car-body" style="border:1px">
+                                <h5> @vinho.Nome</h5>
+                                <span>@vinho.Variedade</span>
+                                <div class="vinho_linha02" style="border:2px">
+                                    <span>@vinho.Origem</span>
+                                    <span>@vinho.Safra</span>
+                                    <span>@vinho.Tipo</span>
+                                    <span>R$ @vinho.Valor</span>
+                                </div>
+                            </div>
+                        </div>
+
+                    }
+                }
+            }
+
+        </div>
+
+    </div>
+</div>

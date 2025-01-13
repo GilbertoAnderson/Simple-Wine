@@ -4108,33 +4108,31 @@
   },
   "packageFolders": {
     "C:\\Users\\giba_\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Giba\\Trabalho\\SimpleWine\\app_VS2022\\SimpleWine\\SimpleWine\\SimpleWine.csproj",
+      "projectUniqueName": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\SimpleWine.csproj",
       "projectName": "SimpleWine",
-      "projectPath": "E:\\Giba\\Trabalho\\SimpleWine\\app_VS2022\\SimpleWine\\SimpleWine\\SimpleWine.csproj",
+      "projectPath": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\SimpleWine.csproj",
       "packagesPath": "C:\\Users\\giba_\\.nuget\\packages\\",
-      "outputPath": "E:\\Giba\\Trabalho\\SimpleWine\\app_VS2022\\SimpleWine\\SimpleWine\\obj\\",
+      "outputPath": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\giba_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4147,7 +4145,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -4193,7 +4197,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

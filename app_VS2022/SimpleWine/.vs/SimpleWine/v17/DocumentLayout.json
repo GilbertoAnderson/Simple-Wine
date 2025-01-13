@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|c:\\users\\giba_\\onedrive\\documents\\github\\simple-wine\\app_vs2022\\simplewine\\simplewine\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|solutionrelative:simplewine\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|c:\\users\\giba_\\onedrive\\documents\\github\\simple-wine\\app_vs2022\\simplewine\\simplewine\\views\\vinho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|solutionrelative:simplewine\\views\\vinho\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|c:\\users\\giba_\\onedrive\\documents\\github\\simple-wine\\app_vs2022\\simplewine\\simplewine\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|solutionrelative:simplewine\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|c:\\users\\giba_\\onedrive\\documents\\github\\simple-wine\\app_vs2022\\simplewine\\simplewine\\views\\shared\\_rodape.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|solutionrelative:simplewine\\views\\shared\\_rodape.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|c:\\users\\giba_\\onedrive\\documents\\github\\simple-wine\\app_vs2022\\simplewine\\simplewine\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|solutionrelative:simplewine\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|c:\\users\\giba_\\onedrive\\documents\\github\\simple-wine\\app_vs2022\\simplewine\\simplewine\\services\\vinhos\\vinhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|solutionrelative:simplewine\\services\\vinhos\\vinhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|c:\\users\\giba_\\onedrive\\documents\\github\\simple-wine\\app_vs2022\\simplewine\\simplewine\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|solutionrelative:simplewine\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|c:\\users\\giba_\\onedrive\\documents\\github\\simple-wine\\app_vs2022\\simplewine\\simplewine\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|solutionrelative:simplewine\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|c:\\users\\giba_\\onedrive\\documents\\github\\simple-wine\\app_vs2022\\simplewine\\simplewine\\controllers\\vinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|solutionrelative:simplewine\\controllers\\vinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|c:\\users\\giba_\\onedrive\\documents\\github\\simple-wine\\app_vs2022\\simplewine\\simplewine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA49431-633D-46F7-88E2-A84C694FF07E}|SimpleWine\\SimpleWine.csproj|solutionrelative:simplewine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SimpleWine\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SimpleWine\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-27T20:54:23.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Views\\Vinho\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleWine\\Views\\Vinho\\Index.cshtml",
+              "ToolTip": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Views\\Vinho\\Index.cshtml",
+              "RelativeToolTip": "SimpleWine\\Views\\Vinho\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T20:54:23.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_rodape.cshtml",
+              "DocumentMoniker": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Views\\Shared\\_rodape.cshtml",
+              "RelativeDocumentMoniker": "SimpleWine\\Views\\Shared\\_rodape.cshtml",
+              "ToolTip": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Views\\Shared\\_rodape.cshtml",
+              "RelativeToolTip": "SimpleWine\\Views\\Shared\\_rodape.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T20:54:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleWine\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SimpleWine\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T20:54:23.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SimpleWine\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SimpleWine\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T20:54:23.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VinhoService.cs",
+              "DocumentMoniker": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Services\\Vinhos\\VinhoService.cs",
+              "RelativeDocumentMoniker": "SimpleWine\\Services\\Vinhos\\VinhoService.cs",
+              "ToolTip": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Services\\Vinhos\\VinhoService.cs",
+              "RelativeToolTip": "SimpleWine\\Services\\Vinhos\\VinhoService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:54:23.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "SimpleWine\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "SimpleWine\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:54:23.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SimpleWine\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SimpleWine\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:54:23.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VinhoController.cs",
+              "DocumentMoniker": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Controllers\\VinhoController.cs",
+              "RelativeDocumentMoniker": "SimpleWine\\Controllers\\VinhoController.cs",
+              "ToolTip": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Controllers\\VinhoController.cs",
+              "RelativeToolTip": "SimpleWine\\Controllers\\VinhoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:54:23.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleWine\\Program.cs",
+              "ToolTip": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\Program.cs",
+              "RelativeToolTip": "SimpleWine\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:54:23.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

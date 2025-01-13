@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4aQrXpPOusCgZYcuwqhzeJ52LVPz4LmO4v4Y6TpKe0zf2KvqhwUXhKjdUWYOaowp5SSW+nhCIn/6aSx3Tsu73w==",
+  "dgSpecHash": "mMJNRGplVmI=",
   "success": true,
-  "projectFilePath": "E:\\Giba\\Trabalho\\SimpleWine\\app_VS2022\\SimpleWine\\SimpleWine\\SimpleWine.csproj",
+  "projectFilePath": "C:\\Users\\giba_\\OneDrive\\Documents\\GitHub\\Simple-Wine\\app_VS2022\\SimpleWine\\SimpleWine\\SimpleWine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giba_\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\giba_\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
